@@ -18,8 +18,6 @@ This is a simple chess clock app built using React Native, Expo, and TypeScript.
 
 - The app displays two timers, one for each player.
 - Users can start and stop the timers by tapping the corresponding player's timer.
-- The app also provides a reset button to set the timers back to the initial time.
-- Users can customize the initial time for each player before starting the game.
 
 ## Screenshots
 
